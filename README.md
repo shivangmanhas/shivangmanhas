@@ -6,6 +6,32 @@
 
 ---
 
+## 🎓 Education
+
+### Rutgers Business School, Rutgers University, New Brunswick, NJ, USA 
+#### Masters in Information Technology and Analytics
+*August 2023 - December 2024*  
+- Relevant Coursework: Data Analysis and Visualization, Business Data Management, Data Structures and Algorithm, Business Forecasting, Information Security, Neural Network and Deep Learning, Information Technology Strategy  
+- Tools Used: Python, SQL, Tableau, Power BI, R
+
+### Sardar Patel Institute of Technology, Mumbai, India
+#### Bachelors in Electronics
+*August 2019 - May 2023*
+
+---
+
+## 💼 Experience
+
+### 📊 Data Analyst Intern – Artrendex Inc., New Jersey, USA  
+*March 2025 – Present*  
+- Gathering, processing, and validating large datasets to ensure accuracy and reliability. Uncovering trends and insights through in-depth analysis to help drive strategic decisions. Designing interactive dashboards and visual reports that translate complex data into clear, actionable insights.  
+- Working alongside cross-functional teams to refine data strategies and develop predictive models. Leveraging industry tools (e.g., Python, SQL) and methodologies to enhance my analytical skills and contribute to impactful projects.  
+
+### 🧠 Research Assistant – Product Development Centre, SPIT, Mumbai, India
+*Jan 2021 – July 2021*  
+
+---
+
 ## 🚀 Projects
 
 ### 🧠 [House Price Prediction](https://github.com/shivangmanhas/House_Price_Prediction)
@@ -20,7 +46,7 @@
 > NLP + Time Series forecasting to uncover trends in customer sentiment around Nike sneakers.  
 `Python`, `VADER`, `Prophet`, `WordCloud`
 
-### 📈 [Marketing Mix Model Optimization]
+### 📈 Marketing Mix Model Optimization
 > Regression-based model to optimize marketing spend and measure impact on sales.  
 `Pandas`, `Scikit-learn`, `Tableau`
 
