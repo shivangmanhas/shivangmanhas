@@ -34,6 +34,10 @@
 
 ## 🚀 Projects
 
+### 🧠 [Interactive Stock Portfolio Simulator](https://github.com/shivangmanhas/Stock-Portfolio-Simulator)
+> Developed a dynamic Tableau dashboard that allows users to simulate investments across multiple stocks. Integrated parameter controls to input investment amounts per stock, visualized portfolio performance over time, and calculated real-time profit/loss and return percentages. Implemented filters, slicers, and dual-axis charts for enhanced interactivity. The dashboard is suitable for retail investors and financial analysts seeking intuitive portfolio monitoring tools. 
+`Tableau`, `Data Visualization`, `Python`
+
 ### 🧠 [House Price Prediction](https://github.com/shivangmanhas/House_Price_Prediction)
 > This project is an end-to-end solution for the House Prices - Advanced Regression Techniques Kaggle competition. The goal of the competition is to predict final house sale prices based on a rich dataset of property features. 
 `Python`, `Data Visualization`, `Regression`
